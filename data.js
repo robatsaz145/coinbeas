@@ -1,6 +1,6 @@
 module.exports = {
 
-mongoLink:'mongodb+srv://airdrop_22eed:SBMCD3ylHmWTxFcl@cluster0.sidoc.mongodb.net/?retryWrites=true&w=majority',// Database Link Of MongoDB
+mongoLink:'mongodb+srv://cluster0.nt676.mongodb.net/?authSource=%24external&authMechanism=MONGODB-X509&retryWrites=true&w=majority',// Database Link Of MongoDB
 
 apikey:'xxxx',// Coinbase API Key
 
